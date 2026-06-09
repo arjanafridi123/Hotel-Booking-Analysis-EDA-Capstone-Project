@@ -1,6 +1,6 @@
 # Hotel-Booking-Analysis-EDA-Capstone-Project
 
-About The Project
+**About The Project**
 
 This project focuses on performing Exploratory Data Analysis (EDA) on hotel booking data collected from City Hotels and Resort Hotels. The dataset contains information related to booking status, arrival dates, customer types, market segments, distribution channels, deposit policies, country of origin, and Average Daily Rate (ADR).
 
