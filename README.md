@@ -50,6 +50,6 @@ The objective of this project is to answer the following business questions thro
 
 If you have any questions, suggestions, or feedback regarding this project, feel free to connect with me.
 
-- LinkedIn: Your LinkedIn Profile
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-arjan-afridi-7288b7233/)
 - Email: Your Email Address
 - GitHub: Your GitHub Profile
